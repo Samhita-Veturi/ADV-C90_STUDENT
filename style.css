@@ -10,8 +10,8 @@ body{
     margin: 50px;
     width: 900px;
     text-align: center;
-    margin-left: 270px;
     color: black;
+    
 }
 
 h1{
@@ -27,7 +27,6 @@ h1{
     width: 230px;
     background-color: black;
     text-align: center;
-    margin-left: 610px;
     margin-top: 10px;
 }
 
@@ -40,10 +39,10 @@ padding: 10px;
 float: none;
 text-align: left;
 }
-#P1_Name , #P2_Name
+#P1_Name,#P2_Name
 {
 	display: inline-block;
-	margin-left: 20px;
+    margin-left: 20px;
 }
 #Word
 {
